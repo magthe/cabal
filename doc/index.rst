@@ -19,6 +19,7 @@ Welcome to the Cabal User Guide
    how-to-run-in-windows
    how-to-use-backpack
    how-to-report-bugs
+   how-to-set-up-editor
 
 .. toctree::
    :caption: Cabal Reference
